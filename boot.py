@@ -4,7 +4,7 @@ import os
 from datetime import datetime
 
 # ЗАМЕНИ НА СВОЙ ТОКЕН
-TOKEN = 9094816290:AAG4XodU-zfkYELvR-_lWd6DWAwMV4wprcs
+TOKEN = '9094816290:AAG4XodU-zfkYELvR-_lWd6DWAwMV4wprcs'
 bot = telebot.TeleBot(TOKEN)
 
 # --- Данные из документа ---
